@@ -1,7 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
-import { AppComponent } from './app.component';
+import { RootComponent } from './root/root.component';
 
 import { HomePageComponent } from './pages/home/home.page';
 
@@ -13,7 +13,7 @@ import { APP_ROUTES } from './app.routes';
 
 @NgModule({
 	declarations: [
-		AppComponent,
+		RootComponent,
 		HomePageComponent,
 		ModalDynamicComponent
 	],
@@ -23,7 +23,7 @@ import { APP_ROUTES } from './app.routes';
 	],
 	providers: [],
 	bootstrap: [
-		AppComponent
+		RootComponent
 	],
 	entryComponents: [
 		ModalDynamicComponent
