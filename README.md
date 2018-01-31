@@ -1,6 +1,10 @@
 # Angular Lazy Loading and Dynamic Injection Sample Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6. This module uses a local version of Angular CLI so you don't have to install it globally :thumbsup:
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6. This module uses a local 
+version of Angular CLI so you don't have to install it globally :thumbsup:
+
+## Instalation
+Pretty straight forward (no drama) `npm install` or `yarn install`. When complete, go to the next step.
 
 ## Development server
 
